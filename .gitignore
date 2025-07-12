@@ -17,3 +17,5 @@
 /vendor/
 
 xdebug.log
+
+/.idea
